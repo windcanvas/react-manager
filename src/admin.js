@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import NavLeft from './components/NavLeft';
 import './style/common.less';
-import Home from './pages/home';
+//import Home from './pages/home';
 
 class Admin extends Component {
     render() {
